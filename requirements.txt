@@ -1,6 +1,6 @@
 ### PLease make sure to intall latest or 3.9 python version
 
-Django==4.2.3
+Django==4.2.7
 Requests==2.31.0
 django-sslserver==0.22
 pyOpenSSL==23.2.0
